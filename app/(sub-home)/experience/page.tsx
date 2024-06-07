@@ -86,7 +86,7 @@ export default function Experience() {
 
                     <div className="flex gap-x-2">
                       <span className="text-[#62f5d6]">&#10146;</span>
-                      Integral member of the core team at Scorpion, instrumental in the development of the company's inaugural client-
+                      Integral member of the core team at Scorpion, instrumental in the development of the company’s inaugural client-
                       facing product, Scorpion Home.
                     </div>
                   </li>
@@ -99,7 +99,7 @@ export default function Experience() {
                   <li className="text-white">
                     <div className="flex gap-x-2">
                       <span className="text-[#62f5d6]">&#10146;</span>
-                      Led the design of the product's frontend architecture utilizing an NX mono repository, integrating diverse frontend
+                      Led the design of the product’s frontend architecture utilizing an NX mono repository, integrating diverse frontend
                       libraries and frameworks, notably Angular.
                     </div>
                   </li>
@@ -144,7 +144,7 @@ export default function Experience() {
                   <li className="text-white">
                     <div className="flex gap-x-2">
                       <span className="text-[#62f5d6]">&#10146;</span>
-                      Contributed to the creation of healthcare-focused web and mobile applications within the organization's product
+                      Contributed to the creation of healthcare-focused web and mobile applications within the organization’s product
                       portfolio.
                     </div>
                   </li>
@@ -257,7 +257,7 @@ export default function Experience() {
                   <li className="text-white">
                     <div className="flex gap-x-2">
                       <span className="text-[#62f5d6]">&#10146;</span>
-                      Contributed to the enhancement and refinement of the organization's automated testing methodologies, thereby
+                      Contributed to the enhancement and refinement of the organization’s automated testing methodologies, thereby
                       augmenting overall testing efficiency and effectiveness.
                     </div>
                   </li>
@@ -295,7 +295,7 @@ export default function Experience() {
                   <li className="text-white">
                     <div className="flex gap-x-2">
                       <span className="text-[#62f5d6]">&#10146;</span>
-                      Engaged in direct collaboration with esteemed professors as a Laboratory Aide and Teacher's Assistant,
+                      Engaged in direct collaboration with esteemed professors as a Laboratory Aide and Teacher’s Assistant,
                       contributing to the design and implementation of engaging laboratory assignments tailored for incoming
                       Freshmen.
                     </div>
@@ -312,7 +312,7 @@ export default function Experience() {
                       <span className="text-[#62f5d6]">&#10146;</span>
                       Assumed the role of Lead Developer at the Center of International Education, Northern Arizona University (NAU),
                       spearheading the conceptualization, development, and deployment of websites for the Global Science and
-                      Engineering Program and Global Business Program, thereby enhancing the institution's digital presence and
+                      Engineering Program and Global Business Program, thereby enhancing the institution’s digital presence and
                       academic offerings.
                     </div>
                   </li>
