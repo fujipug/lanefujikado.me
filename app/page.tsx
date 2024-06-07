@@ -1,8 +1,8 @@
 import About from "./(sub-home)/about/page";
 import Experience from "./(sub-home)/experience/page";
 import Main from "./(sub-home)/main/page";
-import { Projects } from "./(sub-home)/projects/page";
 import Contact from "./(sub-home)/contact/page";
+import Projects from "./(sub-home)/projects/page";
 
 export default function Home() {
   return (

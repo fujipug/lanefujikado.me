@@ -6,7 +6,7 @@ import { Audiowide } from "next/font/google";
 
 const audiowide = Audiowide({ weight: '400', subsets: ['latin'] });
 
-export function Projects() {
+export default function Projects() {
   const projects = [
     {
       title: "Baja Lovers - (In Progress)",
