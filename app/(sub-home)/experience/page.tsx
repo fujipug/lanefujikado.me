@@ -1,6 +1,5 @@
 import { Tabs } from "@/app/components/ui/tabs";
 import Image from "next/image";
-
 import { Audiowide } from "next/font/google";
 
 const audiowide = Audiowide({ weight: '400', subsets: ['latin'] });
