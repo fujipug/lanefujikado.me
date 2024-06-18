@@ -94,6 +94,14 @@ export default function Navbar() {
                         <span className={`${audiowide.className} text-[#62f5d6]`}>{item.number}.</span> {item.name}
                       </a>
                     ))}
+                    <a
+                      type="button"
+                      href="/resume.pdf"
+                      target="_blank"
+                      className="rounded-md text-[#62f5d6] px-3 py-2 shadow-sm ring-1 ring-inset ring-[#62f5d6] transition duration-300 ease-in-out hover:bg-[#8892B0] hover:text-white"
+                    >
+                      Resume
+                    </a>
                   </div>
                 </div>
               </div>
@@ -182,6 +190,14 @@ export default function Navbar() {
                   <span className={`${audiowide.className} text-[#62f5d6]`}>{item.number}.</span> {item.name}
                 </DisclosureButton>
               ))}
+              <a
+                type="button"
+                href="/resume.pdf"
+                target="_blank"
+                className="rounded-md text-[#62f5d6] px-3 py-2 shadow-sm ring-1 ring-inset ring-[#62f5d6] transition duration-300 ease-in-out hover:bg-[#8892B0] hover:text-white"
+              >
+                Resume
+              </a>
             </div>
           </DisclosurePanel>
         </>
