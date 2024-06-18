@@ -21,10 +21,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/powered.png"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -72,10 +72,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/scorpion.jpeg"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -131,10 +131,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/idcontent.png"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -190,10 +190,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/general.png"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -235,10 +235,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/GH.png"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -282,10 +282,10 @@ export default function Experience() {
             <div className="grid grid-cols-2 space-x-5 my-8">
               <div className="col-span-1 flex justify-center">
                 <Image
-                  src="/me.jpeg"
+                  src="/nau.png"
                   height="1000"
                   width="1000"
-                  className="h-full w-40 object-cover rounded-xl"
+                  className="h-60 w-60 rounded-xl"
                   alt="thumbnail"
                 />
               </div>
@@ -324,10 +324,10 @@ export default function Experience() {
     },
   ];
   return (
-    <div className="mx-auto max-w-5xl mb-40 mt-32">
-      <div className="flex">
+    <div id="experience" className="mx-auto max-w-5xl mb-40 mt-32">
+      <div className="flex items-center">
         <h1 className="text-xl lg:text-3xl"><span className={`${audiowide.className} text-[#62f5d6]`}>02.</span> Where I’ve worked</h1>
-        <hr />
+        <hr className="ml-4 w-72 h-[1px] bg-gray-100 border-0 dark:bg-gray-700 hidden lg:block" />
       </div>
       <br />
       <div className="h-[20rem] md:h-[40rem] [perspective:1000px] relative b flex flex-col max-w-5xl mx-auto w-full items-start justify-start mt-4 mb-40">

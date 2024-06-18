@@ -6,11 +6,11 @@ const audiowide = Audiowide({ weight: '400', subsets: ['latin'] });
 
 export default function About() {
   return (
-    <div className="flex justify-center items-center">
+    <div id='about' className="flex justify-center items-center">
       <div className="mx-auto max-w-5xl">
-        <div className="flex">
+        <div className="flex items-center">
           <h1 className="text-xl lg:text-3xl"><span className={`${audiowide.className} text-[#62f5d6]`}>01.</span> About me</h1>
-          <hr />
+          <hr className="ml-4 w-72 h-[1px] bg-gray-100 border-0 dark:bg-gray-700 hidden lg:block" />
         </div>
         <br />
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">

@@ -84,10 +84,10 @@ export default function Projects() {
   ];
 
   return (
-    <div className="max-w-5xl mx-auto mt-40 mb-20">
-      <div className="flex">
+    <div id="projects" className="max-w-5xl mx-auto mt-40 mb-20">
+      <div className="flex items-center">
         <h1 className="text-xl lg:text-3xl"><span className={`${audiowide.className} text-[#62f5d6]`}>03.</span> Some Things I’ve Built</h1>
-        <hr />
+        <hr className="ml-4 w-72 h-[1px] bg-gray-100 border-0 dark:bg-gray-700 hidden lg:block" />
       </div>
       <br />
       <HoverEffect items={projects} />

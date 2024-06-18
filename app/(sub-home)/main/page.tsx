@@ -1,6 +1,6 @@
 export default function Main() {
   return (
-    <div className="h-screen flex justify-center items-center">
+    <div id="home" className="h-screen flex justify-center items-center">
       <div>
         <p className="text-[#62f5d6]">Hi, my name is</p>
         <br />
